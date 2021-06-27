@@ -9,11 +9,11 @@ The solutions uploaded are for the below questions
 4 -> B
 5 -> B
 
-These are some resources which would be helpful in understanding
+These are some resources which would be helpful in understanding Assembly language.
 
-Assembly language.
 [assembly_tutorial.pdf](https://github.com/Bhargavi-hash/CSO-x86-64-Assembly-coding-practice-problems/files/6721031/assembly_tutorial.pdf)
 
 CheatSheet
+
 [x64_cheatsheet.pdf](https://github.com/Bhargavi-hash/CSO-x86-64-Assembly-coding-practice-problems/files/6721034/x64_cheatsheet.pdf)
 
