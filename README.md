@@ -3,11 +3,11 @@
 [CSO_Assignment1.pdf](https://github.com/Bhargavi-hash/CSO-x86-64-Assembly-coding-practice-problems/files/6721028/CSO_Assignment1.pdf)
 The solutions uploaded are for the below questions
 
-1 -> A
-2 -> A
-3 -> B
-4 -> B
-5 -> B
+* 1 -> A
+* 2 -> A
+* 3 -> B
+* 4 -> B
+* 5 -> B
 
 These are some resources which would be helpful in understanding Assembly language.
 
